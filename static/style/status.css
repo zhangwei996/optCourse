@@ -1,0 +1,271 @@
+
+* {
+	margin: 0;
+	padding: 0
+}
+
+html {
+	-webkit-text-size-adjust: none;
+}
+
+body {
+	background-color: rgb(255, 255, 255);
+	font-family:"Helvetica Neue", "Luxi Sans", "DejaVu Sans", "Hiragino Sans GB", "Microsoft YaHei" , "微软雅黑" !important;
+	color: #333;
+	font-size: 12px;
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;
+	min-width: 800px;
+	padding: 0;
+}
+
+.box {
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	background: url(../../static/img/speakers.jpg) 0 0 no-repeat;
+	background-size: cover;
+	position: absolute;
+	top:60px;
+}
+
+.back {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(57,63,77,0.6);
+	height: 100%;
+}
+
+.anniu {
+	width: 70%;
+	margin: auto;
+	height: 100px;
+	margin-top: 20%;
+}
+
+.btn-primary {
+	position: relative;
+	z-index: 999;
+}
+
+.table > tr > td {
+	color: #fff;
+}
+.ivu-table{
+}
+
+.ivu-table-large th{
+	text-align: center;
+}
+.ivu-table-cell{
+	text-align: center;   
+}
+.navdr {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 998;
+	background: rgba(144, 147, 152, 0.6);
+	font-size: 18px;
+	color: #fff;
+	line-height: 55px;
+	text-align: center;
+}
+/**以下是optCourse的样式*/
+    .ivu-table th{
+        text-align: center;
+    }
+    .bottom .left{width: 75%;float: left;}
+    .leftone{
+        height: 47px;
+        line-height: 47px;
+        width: 100%;
+        border: 1px solid #CCC;
+        background: #f5f5f5;
+    }
+    ul{
+        padding: 0px ;
+        margin: 0px ;
+        list-style: none;
+    }
+    .leftone ul li {
+        height: 47px;
+        line-height: 47px;
+        float: left;
+        width: 10%;
+        text-align: center;
+        display: list-item;
+    }
+    .leftone ul li a{
+        text-align: center;
+        font-family: "微软雅黑";
+        font-size: 17px;
+        color: #706e6e;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .lefttwo{
+        width:100%;
+        float: left;
+    }
+    .sanceng{
+        width:100%;
+        float: left;
+    }
+    .w980 {
+        border-radius: 4px;
+        float: left;
+        border: 1px solid #ccc;
+        width: 100%;
+        margin-top: 15px;
+        padding-bottom: 15px;
+    }
+    .Beauty {
+        background: transparent;
+    }
+    .Beauty ul {
+        width: 97.98%;
+        margin: auto;
+    }
+    .rightong {
+        margin-top:0px;
+        width: 95%;
+        float: right;
+        background: #f3f3f3;
+        border: 1px solid #CCC;
+        padding-bottom: 20px;
+    }
+    .LanMu01-1 {
+        height: 60px;
+        padding-left: 10px;
+        padding-top: 5px;
+        background-size: 30px
+    }
+    .LanMu01-1 span{    font-size: 18px;
+        float: left;
+        font-weight: 500;
+        background: url(../../static/img/010.png) 0 center no-repeat;
+        background-size:1.1em;padding-left: 2em;margin-top: 0.5em}
+    .rightwo {
+        padding-top: 3px;
+        width: 100%;
+        min-height: 380px;
+    }
+    .bottom .right{width: 25%;float: left;}
+
+.xk{width: 100%;display: inline-block;}
+/* .xk_mk{border: 1px solid #dedede;border-radius: 8px;padding: 10px;position: relative;}
+.xk_mk span{
+    width: 20px !important;
+    height: 20px;
+    text-align: center !important;
+    border-radius: 3px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: none;
+}
+.xk_mk span .ivu-checkbox-checked .ivu-checkbox-inner:after{width: 8px;
+    height: 11px;    left: 6px;}
+.xk_mk span{display: inline-block;position: absolute;} */
+.xk ul{display: table;width: 100%;}
+.xk ul li{float: left;padding: 1%;margin: 1%; text-align: center;width: 31.3333%;border: 1px solid #eeeeee;}
+.xk ul li a{text-align: center;display: flex;}
+.xk_mk img{height: auto;width: 100%;}
+.xk ul li .btn Button{padding: 5px;display: inline-flex;}
+.xk span{display: -webkit-box;text-align: center;width: 100%}
+.xk span a{font-size: 14px;color: #666;padding: 6px 0;margin: auto;}
+#mylessons li{height: 60px;margin-bottom: 10px;}
+.ivu-icon{font-size: 20px;}
+.ivu-btn{margin: 0 5px;}
+.right_style{float: right;
+    margin-bottom: 10px;}
+.first_bar{display: inline;}
+.left_style{display: inline-block;width: 100%}
+.center{width: 1200px;margin: auto;}
+
+/**以下是selectCourse的样式*/
+
+.bottom{padding-top:10px;text-align:center;width:100%;}
+.form-inline{text-align:right;margin-bottom:10px}
+.form-inline .form-group{display: -webkit-inline-box;margin-bottom: 0;vertical-align: middle}
+label{display: inline-block;max-width: 100%;margin-bottom: 5px;font-weight: 500;font-size: 16px}
+.tab{border-color: #ddd;}
+.table-box {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+.form-control {
+    display: block;
+    /* width: 100%; */
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+}
+.form-control option{font-size:14px}
+.btn_left{float: left;}
+.bottom_optc2{padding-top: 10px;
+    text-align: center;
+    width: 80%;
+	margin-left: 10%;}
+.course_list span{float: left;margin-left: 10px;background-color: #383c8d;
+     border-radius: 10px;width: 20px;height:20px;margin-top:13px;color: #fff;}
+.course_list .name_teach{float: left;margin-left: 10px;}
+.course_list>img{float: left;width:50px;height:50px;margin-left: 10px;margin-right: 10px;border-radius: 8px;}
+.delete_icon{float: right;margin-right: 10px;margin-top:13px}
+
+.active{background-color:rgba(178, 178, 178, 0.133)}
+
+
+
+
+/* 选课列表 */
+.xklb{width:100%;    display: table;}
+.course_name{    font-size: 17px;
+    font-weight: 400;}
+.course_teacher{font-size: 13px;text-align: left;color: #999}
+.delete_icon{width: 50px;height: 50px;float: right}
+.delete_icon img{width: 24px;height: 24px;}
+
+
+.anniu .heading-wrapper h1{margin: 0.5em 0px;font-size: 42px;}
+.anniu .heading-wrapper h2{margin-bottom: 2em;font-size: 24px;}
+
+
+.single-table .ivu-table-large th{background: none !important;}
+.single-table .ivu-table{background: none;}
+.single-table .ivu-table td{background: none;}
+.single-table .ivu-table-wrapper{border:none;}
+.single-table .ivu-table-cell span{color: #fff;}
+.single-table .ivu-table:after{display: none;}
+.single-table .ivu-table-row-hover td{background: none !important;;}
+
+
+
+
+
+
+
+
+
+
+
+

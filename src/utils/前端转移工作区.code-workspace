@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\opt（教师端选课）"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\AppVenue（物品申领web）"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\BschBackWebapp"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\BschBask"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\BschClassAsk"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\BschGrowth(成长记录)"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\BschTask(作业互动)"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\HSchClassCircle(班级圈)"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\HSchClassNotice(班级通知)"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\SendSMS（短信发送）"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\share"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\StuOptCourse（PC学生端选课）"
+		},
+		{
+			"path": "D:\\Bsch_FrontCode\\A_Data Migration(数据迁移)\\StuOptCourseApp（APP学生端选课）"
+		}
+	],
+	"settings": {}
+}
